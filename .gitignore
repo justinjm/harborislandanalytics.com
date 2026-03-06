@@ -1,0 +1,10 @@
+# .gitignore
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+.hugo_build.lock
+public/
+resources/
+.DS_Store
