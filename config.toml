@@ -38,8 +38,8 @@ enableEmoji = true
 [services]
 #  [services.disqus]
 #    shortname = ''
-#  [services.googleAnalytics]
-#    id = ''
+  [services.googleAnalytics]
+    id = 'G-TCSEYQ7169'
 
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
